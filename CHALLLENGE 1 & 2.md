@@ -1,7 +1,9 @@
 # Oracle-Assignnment
-assignment
+CHALLLENGE 1 & 2
 
 Docker remote REST api instruction 
+
+0) Clone/Download Oracle-node 
 
 1) Open terminal
 
