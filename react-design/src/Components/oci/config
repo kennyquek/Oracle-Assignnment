@@ -1,0 +1,7 @@
+[DEFAULT]
+user=ocid1.user.oc1..aaaaaaaa7ocdaqhezovaozglejekyunhknb4j2nrmzhenw7vvpr2tbo7lnka
+fingerprint=15:09:72:ce:54:8a:d0:d1:0e:d0:8a:d4:43:f3:27:6b
+key_file=/Users/kennyquek/.oci/oci_api_key.pem
+tenancy=ocid1.tenancy.oc1..aaaaaaaaq6gxwwhbwpd7nhlwrregibyto722bbwpd44uoveo33kgggepx3qq
+region=ap-sydney-1
+pass_phrase=aaaaaa

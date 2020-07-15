@@ -1,0 +1,36 @@
+{
+  "name": "personalportfolio",
+  "version": "0.1.0",
+  "homepage": "./",
+  "proxy": "https://b4cs5opbx6sbm5pxt7traztlbi.apigateway.ap-sydney-1.oci.customer-oci.com",
+  "private": true,
+  "dependencies": {
+    "anix": "^0.3.3",
+    "jquery": "^3.2.1",
+    "oci-common": "^1.2.3",
+    "particles-bg": "^2.3.12",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-ga": "^2.3.5",
+    "react-scripts": "1.0.17"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.10.5",
+    "@babel/plugin-proposal-class-properties": "^7.10.4",
+    "@babel/plugin-syntax-jsx": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "@babel/preset-react": "^7.10.4",
+    "babel-loader": "^8.1.0",
+    "html-webpack-plugin": "^4.3.0",
+    "path": "^0.12.7",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
