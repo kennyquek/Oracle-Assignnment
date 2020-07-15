@@ -3,6 +3,8 @@ assignment
 
 Oracle Cloud REST api call via React Single page app
 
+0) Clone/Download react-design 
+
 1) npm install
 
 2) npm start
